@@ -2,7 +2,7 @@
 
 This repository contains my Master's thesis, "Clustering in Mobile Wireless Sensor Networks Based on Intelligent Methods", completed at Tabriz University, under the field of Computer Engineering with a focus on Software. My thesis delves into the challenges and solutions related to energy efficiency in Mobile Wireless Sensor Networks (MWSNs) through the use of evolutionary algorithms.
 
-<img src="[images/simulation_example.gif](Clip/Clustering-MWSNs-Using-GA-and-BC-Simulated-in-MATLAB.gif)" width="400" height="400" alt="Simulation Example">
+<img src="Clip/Clustering-MWSNs-Using-GA-and-BC-Simulated-in-MATLAB.gif" width="400" height="400">
 
 
 ## Project Overview
