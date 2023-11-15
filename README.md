@@ -22,7 +22,8 @@ The thesis explores the concept of clustering in MWSNs, emphasizing the importan
 
 The simulation results indicate that the application of the BC algorithm leads to a 14% improvement in clustering speed and an increase in the lifetime of clusters compared to traditional methods.
 
-![Clustering Plot](figures/img_round_4.jpg)
+<img src="figures/img_round_4.jpg" width="500" height="300">
+
 
 
 ## Repository Structure
